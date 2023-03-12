@@ -1,1 +1,4 @@
 # react-native-patistore
+
+✔️ SEARCH BAR KULLANIMI (FİLTER)
+✔️ JSON DOSYASINDAKİ VERİLERİ EKRANA BASTIRMA
